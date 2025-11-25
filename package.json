@@ -1,0 +1,9 @@
+{
+          "name": "@czazcodes/the-package",
+          "version": "0.6.7",
+          "description": "test",
+          "main": "hello.js",
+          "publishConfig": {
+            "registry": "https://npm.pkg.github.com/@czazcodes"
+          }
+        }
